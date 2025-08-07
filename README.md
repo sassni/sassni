@@ -75,7 +75,8 @@ Clean, responsive websites for showcasing projects and browsing property listing
 
 ## Contribution Graph  
 
-![Sasni's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sassni&theme=react-dark&hide_border=true)  
+![Sasni's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sassni&theme=react-dark&hide_border=true)
+![GitHub Snake](https://github.com/sassni/sassni/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
