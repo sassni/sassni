@@ -4,7 +4,7 @@
 ---
  
 **Aspiring Software Engineer | Full Stack Developer | AI Enthusias**  
-<a href="https://sasni-portfolio.netlify.app/" style="text-decoration:none; color:#663399;">Portfolio</a>
+<a href="https://sasni-portfolio.netlify.app/" style="text-decoration:none">Portfolio</a>
 
 ---
 
