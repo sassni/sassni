@@ -76,7 +76,7 @@ Clean, responsive websites for showcasing projects and browsing property listing
 ## Contribution Graph  
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/800080/sassni" alt="GitHub contribution chart" />
+  <img src="https://ghchart.rshah.org/FF6347/sassni" alt="GitHub contribution chart" />
 </p>
 
 ---
