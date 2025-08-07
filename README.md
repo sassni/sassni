@@ -47,7 +47,7 @@ I'm a passionate **Full Stack Software Engineer** experienced in building scalab
 | **Kommon Poll** | JavaScript, PHP |  AI-powered sentiment tracking and social listening tool |
 | **Synapse AI Labs Website** | WordPress |  Revamped corporate website with improved UI/UX |
 | **Breast Cancer Prediction System** | Python, Scikit-learn, Pandas, NumPy, Matplotlib, Colab |  Classification & regression models for cancer outcomes<br> GridSearchCV + pruning for optimization<br> Strong results on real clinical data |
-| ✉**Spam Email Classifier** | Python, Scikit-learn, Pandas, Matplotlib, Colab |  TF-IDF + Naive Bayes spam detector<br> Evaluated with confusion matrix and AUC-ROC |
+| **Spam Email Classifier** | Python, Scikit-learn, Pandas, Matplotlib, Colab |  TF-IDF + Naive Bayes spam detector<br> Evaluated with confusion matrix and AUC-ROC |
 | **Portfolio & Estate Website** | HTML, CSS, JavaScript |  Responsive, mobile-friendly portfolio and property site |
 
 ---
