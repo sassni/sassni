@@ -54,7 +54,7 @@ I'm a passionate **Full Stack Software Engineer** experienced in building scalab
 ✦ Revamped corporate site with better UI/UX and mobile responsiveness.
 
 ### Breast Cancer Mortality & Survival Prediction System  
-*Python, Scikit-learn, Pandas, NumPy, Matplotlib, Google Colab*
+*Python, Scikit-learn, Pandas, NumPy, Matplotlib, Google Colab*  
 ✦ Built classification and regression models using Logistic Regression, KNN, and Naive Bayes  
 ✦ Cleaned clinical data, applied feature selection, and handled missing values  
 ✦ Evaluated using AUC-ROC, F1-score, and built decision tree regressors  
@@ -62,7 +62,7 @@ I'm a passionate **Full Stack Software Engineer** experienced in building scalab
 ✦ Achieved strong results identifying high-risk patients for clinical use
 
 ### Spam Email Classification System  
-*Python, Scikit-learn, Pandas, Matplotlib, Google Colab*
+*Python, Scikit-learn, Pandas, Matplotlib, Google Colab*  
 ✦ Built a spam classifier using Multinomial Naive Bayes  
 ✦ Applied TF-IDF vectorization for text preprocessing  
 ✦ Evaluated with accuracy, confusion matrix, and AUC-ROC metrics  
@@ -70,7 +70,7 @@ I'm a passionate **Full Stack Software Engineer** experienced in building scalab
 
 ### Portfolio & Estate Website  
 *HTML, CSS, JavaScript*  
-Clean, responsive websites for showcasing projects and browsing property listings.  
+✦ Clean, responsive websites for showcasing projects and browsing property listings.  
 
 ---
 
