@@ -59,8 +59,8 @@ Clean, responsive websites for showcasing projects and browsing property listing
 ## GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sassni&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sassni&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sassni&show_icons=true&theme=dracula" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sassni&layout=compact&theme=dracula" height="165" />
 </p>  
 
 ---
@@ -68,8 +68,8 @@ Clean, responsive websites for showcasing projects and browsing property listing
 ## Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sassni&theme=onedark&row=1&column=6" />
-</p>  
+  <img src="https://github-profile-trophy.vercel.app/?username=sassni&theme=dracula&row=1&column=6" />
+</p>
 
 ---
 
