@@ -1,5 +1,5 @@
 <!-- Animated Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&width=750&lines=Hi,+I'm+Sasni;Aspiring+Software+Engineer;Full+Stack+Developer;AI+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&pause=1000&&color=FF4C4C&width=750&lines=Hi,+I'm+Sasni;Aspiring+Software+Engineer;Full+Stack+Developer;AI+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ---
  
@@ -65,14 +65,6 @@ I'm a passionate **Full Stack Software Engineer** experienced in building scalab
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sassni&theme=dracula&row=1&column=6" />
-</p>
-
----
-
-## Contribution Graph  
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/FF6347/sassni" alt="GitHub contribution chart" />
 </p>
 
 ---
