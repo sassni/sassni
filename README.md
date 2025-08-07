@@ -4,9 +4,7 @@
 ---
  
 **Aspiring Software Engineer | Full Stack Developer | AI Enthusias**  
-<a href="https://sasni-portfolio.netlify.app/" style="border-bottom:none; color:#4B0082;">Portfolio</a>
-<a href="https://sasni-portfolio.netlify.app/" style="text-decoration-style: none; color:#4B0082;">Portfolio</a>
-<a href="https://sasni-portfolio.netlify.app/" style="text-decoration:none; color:#4B0082;">Portfolio</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=appveyor)](https://sasni-portfolio.netlify.app/)
 
 ---
 
