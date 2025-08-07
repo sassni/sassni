@@ -11,7 +11,7 @@ jobs:
     name: Generate animation
     steps:
       - name: Generate Pacman SVG
-        uses: maurodesouza/snk/svg-only@v2
+        uses: maurodesouza/snk@main
         with:
           github_user_name: sassni
           outputs: |
