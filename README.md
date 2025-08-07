@@ -76,7 +76,7 @@ Clean, responsive websites for showcasing projects and browsing property listing
 ## Contribution Graph  
 
 <p align="center">
- <img src="https://github-contributions-api.deno.dev/sassni.svg?no-total=true&color=800080" alt="GitHub contribution grid" />
+ <img src="https://github-contributions-api.deno.dev/sassni.svg?no-total=true" />
 </p>
 
 ---
