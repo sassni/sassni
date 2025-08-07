@@ -20,7 +20,10 @@ I'm a passionate **Full Stack Software Engineer** experienced in building scalab
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Web & CMS  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### Machine Learning
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
 
 ### Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -31,8 +34,8 @@ I'm a passionate **Full Stack Software Engineer** experienced in building scalab
 
 ### Synapse AI Labs — Full Stack Software Engineer Intern
 *Oct 2023 – Oct 2024*  
-- End-to-end development, debugging, and feature implementation.  
-- Collaborated across teams to enhance features and optimize performance.  
+✦ End-to-end development, debugging, and feature implementation.  
+✦ Collaborated across teams to enhance features and optimize performance.  
 
 ---
 
@@ -40,15 +43,30 @@ I'm a passionate **Full Stack Software Engineer** experienced in building scalab
 
 ### Personalized AI Nutrition System  
 *HTML, CSS, JavaScript, Python, Flask, TensorFlow/PyTorch*  
-AI-powered full-stack app providing nutrition recommendations based on user health data.  
+✦ AI-powered full-stack app providing nutrition recommendations based on user health data.  
 
 ### Kommon Poll  
 *JavaScript, PHP*  
-AI-powered sentiment tracking and social listening tool.  
+✦ AI-powered sentiment tracking and social listening tool.  
 
 ### Synapse AI Labs Website  
 *WordPress*  
-Revamped corporate site with better UI/UX and mobile responsiveness.  
+✦ Revamped corporate site with better UI/UX and mobile responsiveness.
+
+### Breast Cancer Mortality & Survival Prediction System  
+*Python, Scikit-learn, Pandas, NumPy, Matplotlib, Google Colab*
+✦ Built classification and regression models using Logistic Regression, KNN, and Naive Bayes  
+✦ Cleaned clinical data, applied feature selection, and handled missing values  
+✦ Evaluated using AUC-ROC, F1-score, and built decision tree regressors  
+✦ Tuned models with pruning and GridSearchCV for survival month prediction  
+✦ Achieved strong results identifying high-risk patients for clinical use
+
+### Spam Email Classification System  
+*Python, Scikit-learn, Pandas, Matplotlib, Google Colab*
+✦ Built a spam classifier using Multinomial Naive Bayes  
+✦ Applied TF-IDF vectorization for text preprocessing  
+✦ Evaluated with accuracy, confusion matrix, and AUC-ROC metrics  
+✦ Visualized results using confusion matrices and ROC curves 
 
 ### Portfolio & Estate Website  
 *HTML, CSS, JavaScript*  
