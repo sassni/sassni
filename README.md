@@ -29,7 +29,7 @@ I'm a passionate **Full Stack Software Engineer** experienced in building scalab
 
 ## Experience  
 
-**Synapse AI Labs — Full Stack Software Engineer Intern**  
+### Synapse AI Labs — Full Stack Software Engineer Intern
 *Oct 2023 – Oct 2024*  
 - End-to-end development, debugging, and feature implementation.  
 - Collaborated across teams to enhance features and optimize performance.  
