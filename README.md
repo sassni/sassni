@@ -39,38 +39,16 @@ I'm a passionate **Full Stack Software Engineer** experienced in building scalab
 
 ---
 
-## Featured Projects  
+## Featured Projects
 
-### Personalized AI Nutrition System  
-*HTML, CSS, JavaScript, Python, Flask, TensorFlow/PyTorch*  
-✦ AI-powered full-stack app providing nutrition recommendations based on user health data.  
-
-### Kommon Poll  
-*JavaScript, PHP*  
-✦ AI-powered sentiment tracking and social listening tool.  
-
-### Synapse AI Labs Website  
-*WordPress*  
-✦ Revamped corporate site with better UI/UX and mobile responsiveness.
-
-### Breast Cancer Mortality & Survival Prediction System  
-*Python, Scikit-learn, Pandas, NumPy, Matplotlib, Google Colab*  
-✦ Built classification and regression models using Logistic Regression, KNN, and Naive Bayes  
-✦ Cleaned clinical data, applied feature selection, and handled missing values  
-✦ Evaluated using AUC-ROC, F1-score, and built decision tree regressors  
-✦ Tuned models with pruning and GridSearchCV for survival month prediction  
-✦ Achieved strong results identifying high-risk patients for clinical use
-
-### Spam Email Classification System  
-*Python, Scikit-learn, Pandas, Matplotlib, Google Colab*  
-✦ Built a spam classifier using Multinomial Naive Bayes  
-✦ Applied TF-IDF vectorization for text preprocessing  
-✦ Evaluated with accuracy, confusion matrix, and AUC-ROC metrics  
-✦ Visualized results using confusion matrices and ROC curves 
-
-### Portfolio & Estate Website  
-*HTML, CSS, JavaScript*  
-✦ Clean, responsive websites for showcasing projects and browsing property listings.  
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| **Personalized AI Nutrition System** | HTML, CSS, JS, Python, Flask, TensorFlow/PyTorch |  AI-powered full-stack app for nutrition recommendations |
+| **Kommon Poll** | JavaScript, PHP |  AI-powered sentiment tracking and social listening tool |
+| **Synapse AI Labs Website** | WordPress |  Revamped corporate website with improved UI/UX |
+| **Breast Cancer Prediction System** | Python, Scikit-learn, Pandas, NumPy, Matplotlib, Colab |  Classification & regression models for cancer outcomes<br> GridSearchCV + pruning for optimization<br> Strong results on real clinical data |
+| ✉**Spam Email Classifier** | Python, Scikit-learn, Pandas, Matplotlib, Colab |  TF-IDF + Naive Bayes spam detector<br> Evaluated with confusion matrix and AUC-ROC |
+| **Portfolio & Estate Website** | HTML, CSS, JavaScript |  Responsive, mobile-friendly portfolio and property site |
 
 ---
 
