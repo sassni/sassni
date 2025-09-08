@@ -30,28 +30,6 @@ I'm a passionate **Full Stack Software Engineer** experienced in building scalab
 
 ---
 
-## Experience  
-
-### Synapse AI Labs — Full Stack Software Engineer Intern
-*Oct 2023 – Oct 2024*  
-✦ End-to-end development, debugging, and feature implementation.  
-✦ Collaborated across teams to enhance features and optimize performance.  
-
----
-
-## Featured Projects
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| **Personalized AI Nutrition System** | HTML, CSS, JS, Python, Flask, TensorFlow/PyTorch |  AI-powered full-stack app for nutrition recommendations |
-| **Kommon Poll** | JavaScript, PHP |  AI-powered sentiment tracking and social listening tool |
-| **Synapse AI Labs Website** | WordPress |  Revamped corporate website with improved UI/UX |
-| **Breast Cancer Prediction System** | Python, Scikit-learn, Pandas, NumPy, Matplotlib, Colab |  Classification & regression models for cancer outcomes<br> GridSearchCV + pruning for optimization<br> Strong results on real clinical data |
-| **Spam Email Classifier** | Python, Scikit-learn, Pandas, Matplotlib, Colab |  TF-IDF + Naive Bayes spam detector<br> Evaluated with confusion matrix and AUC-ROC |
-| **Portfolio & Estate Website** | HTML, CSS, JavaScript |  Responsive, mobile-friendly portfolio and property site |
-
----
-
 ## GitHub Stats  
 
 <p align="center">
