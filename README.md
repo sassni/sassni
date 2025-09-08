@@ -61,14 +61,6 @@ I'm a passionate **Full Stack Software Engineer** experienced in building scalab
 
 ---
 
-## Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sassni&theme=dracula&row=1&column=6" />
-</p>
-
----
-
 ## Connect with Me  
 
 <p align="center">
