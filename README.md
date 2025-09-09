@@ -41,4 +41,4 @@ I'm a passionate **Full Stack Software Engineer** experienced in building scalab
 
 ---
 
-<p align="center">ʙᴜɪʟᴅ ᴛʜɪɴɢꜱ ᴛʜᴀᴛ ᴍᴀᴋᴇ ʟɪꜰᴇ ʙᴇᴛᴛᴇʀ, ɴᴏᴛ ᴊᴜꜱᴛ ᴇᴀꜱɪᴇʀ.</p>
+<p align="center"><b>ʙᴜɪʟᴅ ᴛʜɪɴɢꜱ ᴛʜᴀᴛ ᴍᴀᴋᴇ ʟɪꜰᴇ ʙᴇᴛᴛᴇʀ, ɴᴏᴛ ᴊᴜꜱᴛ ᴇᴀꜱɪᴇʀ.</b></p>
