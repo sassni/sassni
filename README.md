@@ -30,15 +30,6 @@ I'm a passionate **Full Stack Software Engineer** experienced in building scalab
 
 ---
 
-## GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sassni&show_icons=true&theme=dracula" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sassni&layout=compact&theme=dracula" height="165" />
-</p>  
-
----
-
 ## Connect with Me  
 
 <p align="center">
