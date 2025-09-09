@@ -50,4 +50,6 @@ I'm a passionate **Full Stack Software Engineer** experienced in building scalab
 
 ---
 
-*"Build things that make life better, not just easier."*
+<p align="center">
+  <b><i>"Build things that make life better, not just easier."</i></b>
+</p>
