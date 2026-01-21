@@ -76,7 +76,7 @@ I'm a passionate **Full Stack Software Engineer** experienced in building scalab
 <p align="center">
 <a href="http://www.linkedin.com/in/sasni"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
 <a href="http://www.github.com/sassni"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
-<a href="https://sasni-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-green?logo=google-chrome&logoColor=white" /></a>
+<a href="https://sasni.is-a.dev/"><img src="https://img.shields.io/badge/Portfolio-green?logo=google-chrome&logoColor=white" /></a>
 <a href="mailto:shazni121@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
 </p>   
 
