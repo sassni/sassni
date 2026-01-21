@@ -9,11 +9,6 @@
 
 ---
 
-## About Me  
-I'm a passionate **Full Stack Software Engineer** experienced in building scalable web apps and AI-driven systems. I blend creative design, robust backend logic, and AI innovations to solve real-world problems through clean code, optimization, and user-focused design.  
-
----
-
 ## Tech Stack  
 
 ### Languages 
