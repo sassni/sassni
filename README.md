@@ -12,9 +12,9 @@
 ## Tech Stack
 
 ### Core Skills
-![Frontend Development](https://img.shields.io/badge/Frontend%20Development-0D1117?style=for-the-badge)
-![Backend Development](https://img.shields.io/badge/Backend%20Development-0D1117?style=for-the-badge)
-![Full-Stack Development](https://img.shields.io/badge/Full--Stack%20Development-0D1117?style=for-the-badge)
+![Frontend Development](https://img.shields.io/badge/Frontend%20Development-1a1a2e?style=for-the-badge)
+![Backend Development](https://img.shields.io/badge/Backend%20Development-1a1a2e?style=for-the-badge)
+![Full-Stack Development](https://img.shields.io/badge/Full--Stack%20Development-1a1a2e?style=for-the-badge)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
