@@ -3,7 +3,7 @@
 
 ---
 
-**Software Engineer @ NukyLabs · Full-Stack**
+**Software Engineer · Full-Stack**
 
 <a href="https://sasni.is-a.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
 
